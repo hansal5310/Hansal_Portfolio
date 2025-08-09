@@ -106,6 +106,14 @@ body {
     gap: 2rem;
 }
 
+.big-hansal{
+    font-family: "Great Vibes", "Brush Script MT", cursive;
+  font-size: 10rem;
+  letter-spacing: 0.02em;
+  margin: 0;
+    color: #00b8e6;
+}
+
 .nav-link {
     color: var(--text-color);
     text-decoration: none;
